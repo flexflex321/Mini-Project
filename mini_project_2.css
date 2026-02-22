@@ -1,0 +1,21 @@
+body{
+  background-color: lightgreen;
+  display: flex;
+}
+h1{
+  color: royalblue;
+}
+.box{
+  margin: 20px;
+  border: 10px solid brown;
+  padding: 30px ;
+  background-color: lightyellow;
+  text-align: center;
+}
+.otherbox{
+  margin: 15pxpx ;
+  border: 8px solid brown;
+  padding: 25px;
+  background-color: lawngreen ;
+  color:royalblue;
+}
