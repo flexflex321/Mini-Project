@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+  background-color: brown;
+}
+header {
+    background: grey;
+    color: lightgreen;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    margin: 10px;
+}
+.me {
+    padding: 40px;
+    background: aquamarine;
+}
+.box {
+    display: inline-block;
+    padding: 8px 15px;
+    background: teal;
+    color: white;
+    border-radius: 30px;
+  background-color: brown;
+}
+section {
+    padding: 30px;
+  background: lightseagreen;
+  font-weight: bold;
+}
+footer {
+    background: grey;
+    color: white;
+    padding: 10px;
+}
