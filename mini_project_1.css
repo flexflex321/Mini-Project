@@ -1,0 +1,16 @@
+body{
+  background-color: brown;
+}
+.box{
+  text-align: center;
+  color:red;
+  border:10px solid green;
+  margin: 20px;
+  padding: 30px;
+  background-color: lightblue;
+}
+button{
+  background-color: blue;
+  color:red;
+}
+
